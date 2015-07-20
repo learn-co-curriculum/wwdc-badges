@@ -11,14 +11,14 @@
 
 You've absorbed a lot of information about programming from that group of readings. At this point, you've read about:
 
-* the general layout of Xcode,
-* declaring and defining variables,
-* calling methods,
-* creating and manipulating string objects,
-* wrapping primitives in `NSNumber` objects,
-* evaluating `if` conditionals,
-* creating `for` loops, and
-* holding variables in ordered collections (arrays).
+* the general layout of Xcode
+* declaring and defining variables
+* calling method
+* creating and manipulating string objects
+* wrapping primitives in `NSNumber` objects
+* evaluating `if` conditionals
+* creating `for` loops
+* holding variables in ordered collections (arrays)
 
 Now it's time put your new knowledge into practice and turn it into skill.
 
