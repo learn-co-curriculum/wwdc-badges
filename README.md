@@ -2,10 +2,10 @@
 
 ## Objectives
 
-1. Navigate Xcode well enough to print to the debugger console,
-2. Create a static array,
-3. Use a `for` loop to iterate over an array,
-4. Printout with `NSLog()` by using string interpolation.
+1. Navigate Xcode well enough to print to the debugger console
+2. Create a static array
+3. Use a `for` loop to iterate over an array
+4. Printout with `NSLog()` by using string interpolation
 
 ## Review
 
